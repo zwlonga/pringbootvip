@@ -2,7 +2,7 @@ package cn.enjoy.test;
 
 
 import cn.enjoy.App;
-import cn.enjoy.dao.UsersMapper;
+import cn.enjoy.dao.users.UsersMapper;
 import cn.enjoy.model.Users;
 import org.junit.Test;
 import org.junit.runner.RunWith;

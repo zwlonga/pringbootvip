@@ -1,7 +1,7 @@
 package cn.enjoy.service.impl;
 
 
-import cn.enjoy.dao.UsersMapper;
+import cn.enjoy.dao.users.UsersMapper;
 import cn.enjoy.model.Users;
 import cn.enjoy.service.IUserService;
 import org.springframework.stereotype.Service;

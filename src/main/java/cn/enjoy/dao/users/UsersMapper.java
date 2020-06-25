@@ -1,4 +1,4 @@
-package cn.enjoy.dao;
+package cn.enjoy.dao.users;
 
 import cn.enjoy.model.Users;
 import org.apache.ibatis.annotations.Mapper;
